@@ -1,7 +1,7 @@
-### Hi there 👋
+### 안녕하세요. 👋
 
-- 🔭 I’m currently working on PBPK.
-
+✨ _반갑습니다._ ✨ 가톨릭대학교 약리학교실 연구조교수 한성필입니다.
+⚡ Github 사랑해요. 
 
 <!--
 **shanmdphd/shanmdphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
