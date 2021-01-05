@@ -3,6 +3,9 @@
 ✨ _반갑습니다._ ✨ 가톨릭대학교 약리학교실 연구조교수 한성필입니다.
 ⚡ Github 사랑해요. 
 
+저는 스케이트보드 타는 것을 좋아합니다!!!!
+
+
 <!--
 **shanmdphd/shanmdphd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
